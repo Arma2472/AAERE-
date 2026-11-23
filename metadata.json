@@ -1,0 +1,6 @@
+{
+  "name": "AARE+",
+  "description": "Émulateur de récepteur Android Auto (base protocole AARE) avec interface tableau de bord BetterAuto en Jetpack Compose, gestion des certificats TLS et compatibilité Android 10.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

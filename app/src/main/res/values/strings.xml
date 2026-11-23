@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AARE+</string>
+    <string name="nav_dashboard">Cockpit</string>
+    <string name="nav_receiver">Récepteur</string>
+    <string name="nav_apps">Apps</string>
+    <string name="nav_certs">Certificats</string>
+    <string name="nav_settings">Réglages</string>
+    <string name="status_disconnected">En attente du véhicule</string>
+    <string name="status_connecting">Négociation AAP…</string>
+    <string name="status_tls_handshake">Handshake TLS 1.2…</string>
+    <string name="status_connected">Connecté au récepteur</string>
+    <string name="status_error">Erreur protocole</string>
+    <string name="notif_channel_aare_name">Service Récepteur AARE+</string>
+    <string name="notif_channel_aare_desc">Maintient la liaison USB/Wi-Fi et la projection Android Auto</string>
+    <string name="notif_listener_label">AARE+ Passerelle Média &amp; Notifications</string>
+</resources>
